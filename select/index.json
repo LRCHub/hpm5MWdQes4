@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Thinkin' bout you",
+  "base_artist": "ShowMinorSavage",
+  "createdAt": "2026-02-12T15:32:19.416587Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Thinkin_Bout_You_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Bastille feat. O.N.E.",
+      "has_synced": false,
+      "path": "select/02_Thinkin_Bout_You_Bastille_feat._O.N.E..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thinkin 'Bout You",
+      "artist": "Bastille",
+      "has_synced": false,
+      "path": "select/03_Thinkin_'Bout_You_Bastille.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Daniela Andrade",
+      "has_synced": true,
+      "path": "select/04_Thinkin_Bout_You_Daniela_Andrade.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Thinkin_Bout_You_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thinkin' 'Bout You",
+      "artist": "George Duke",
+      "has_synced": false,
+      "path": "select/06_Thinkin'_'Bout_You_George_Duke.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ain't Thinkin Bout You (Feat. Bow Wow)",
+      "artist": "Chris Brown feat. Tyga",
+      "has_synced": true,
+      "path": "select/07_Ain't_Thinkin_Bout_You_(Feat._Bow_Wow)_Chris_Brown_feat._Tyga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ain't Thinkin Bout You",
+      "artist": "Chris Brown feat. Bow Wow",
+      "has_synced": true,
+      "path": "select/08_Ain't_Thinkin_Bout_You_Chris_Brown_feat._Bow_Wow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Ciara",
+      "has_synced": true,
+      "path": "select/09_Thinkin_Bout_You_Ciara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thinkin Bout You / Too Good",
+      "artist": "IOLITE",
+      "has_synced": true,
+      "path": "select/10_Thinkin_Bout_You___Too_Good_IOLITE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Bastille/O.N.E.",
+      "has_synced": false,
+      "path": "select/11_Thinkin_Bout_You_Bastille_O.N.E..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ain't Thinkin Bout You (Mixed)",
+      "artist": "KREAM feat. Eden Prince & Louisa",
+      "has_synced": false,
+      "path": "select/12_Ain't_Thinkin_Bout_You_(Mixed)_KREAM_feat._Eden_Prince_&_Louisa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thinkin 'Bout You",
+      "artist": "RuPaul",
+      "has_synced": true,
+      "path": "select/13_Thinkin_'Bout_You_RuPaul.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "Ali Gatie",
+      "has_synced": true,
+      "path": "select/14_Thinkin_Bout_You_Ali_Gatie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thinkin Bout You",
+      "artist": "KATIE",
+      "has_synced": true,
+      "path": "select/15_Thinkin_Bout_You_KATIE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Yeah You (Thinkin Bout You)",
+      "artist": "King Sis",
+      "has_synced": false,
+      "path": "select/16_Yeah_You_(Thinkin_Bout_You)_King_Sis.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thinkin' Bout My Ex",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/17_Thinkin'_Bout_My_Ex_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Thinkin' Bout Myself",
+      "artist": "CMC$ feat. CADE",
+      "has_synced": true,
+      "path": "select/18_Thinkin'_Bout_Myself_CMC$_feat._CADE.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Thinkin' Bout Myself",
+      "artist": "Cmc$",
+      "has_synced": true,
+      "path": "select/19_Thinkin'_Bout_Myself_Cmc$.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Thinkin' Bout My Baby",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/20_Thinkin'_Bout_My_Baby_Donna_Summer.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Who Were You Thinkin' 'Bout?",
+      "artist": "Vanessa Williams",
+      "has_synced": true,
+      "path": "select/21_Who_Were_You_Thinkin'_'Bout_Vanessa_Williams.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "(I've Got To) Stop Thinkin' 'Bout That",
+      "artist": "James Taylor",
+      "has_synced": true,
+      "path": "select/22_(I've_Got_To)_Stop_Thinkin'_'Bout_That_James_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Too Busy Thinkin' Bout My Baby",
+      "artist": "Paul Carrack",
+      "has_synced": false,
+      "path": "select/23_Too_Busy_Thinkin'_Bout_My_Baby_Paul_Carrack.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Thinkin' 'Bout Love",
+      "artist": "Karyn White",
+      "has_synced": false,
+      "path": "select/24_Thinkin'_'Bout_Love_Karyn_White.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thinkin' bout you",
+      "artist": "ShowMinorSavage",
+      "has_synced": false,
+      "path": "select/pl_01_Thinkin'_bout_you_ShowMinorSavage.txt"
+    }
+  ]
+}
